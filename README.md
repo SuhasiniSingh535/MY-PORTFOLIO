@@ -1,10 +1,6 @@
 Suhasini Singh - Personal Portfolio Website
 This repository contains the source code for my personal portfolio website. It is a fully responsive single-page site built with HTML and Tailwind CSS. The website showcases my skills, projects, experience, and achievements as a Computer Science student.
 
-🚀 Live Demo
-You can view the live version of the portfolio here:
-
-https://suhasinisingh535.github.io/Portfolio/ ## 📸 Screenshot
 
 ## ✨ Features
 
@@ -33,15 +29,6 @@ HTML5: For the structure and content of the website.
 
 Tailwind CSS: For the utility-first styling and responsive design.
 
-⚙️ How to Use
-To view or edit this project locally, follow these steps:
-
-Clone the repository:
-
-Bash
-
-git clone https://github.com/SuhasiniSingh535/Portfolio.git
-Navigate to the project directory:
 
 Bash
 
